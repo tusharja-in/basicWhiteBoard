@@ -56,7 +56,7 @@ class whiteboard{
         return text;
     }
 }
-public class whiteboard
+public class wihteboard
 {
     public static void main(String[] args) 
     {
