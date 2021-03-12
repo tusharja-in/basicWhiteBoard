@@ -65,9 +65,11 @@ public class whiteboard
         student s1=new student(wb,"tj");
         student s2=new student(wb,"yash");
         student s3=new student(wb,"rohan");
+        student s4=new student(wb,"subrat");
         t.start();
         s1.start();
         s2.start();
         s3.start();
+        s4.start();
     }
 }
