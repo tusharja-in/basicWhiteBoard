@@ -4,7 +4,7 @@ class teacher extends Thread{
     teacher(whiteboard wb){
         w=wb;
     }
-    String[] sm={"this is your java class","now goto china ","fauda ","end"};
+    String[] sm={"this is your java class","now goto school ","fauda ","end"};
     
     public void run(){
         for(int i=0;i<sm.length;i++){
